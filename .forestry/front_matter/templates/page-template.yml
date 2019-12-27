@@ -1,4 +1,24 @@
 ---
 label: page template
 hide_body: true
-fields: []
+fields:
+- name: age
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: 
+    step: 
+  label: Age
+- name: weight
+  type: number
+  label: Weight
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: 
+    step: 
