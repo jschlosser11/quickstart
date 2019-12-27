@@ -22,5 +22,10 @@ fields:
     min: '0'
     max: 
     step: 
+- name: height
+  type: text
+  config:
+    required: false
+  label: Height
 pages:
 - content/Jake.md
