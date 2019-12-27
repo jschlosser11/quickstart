@@ -22,3 +22,5 @@ fields:
     min: '0'
     max: 
     step: 
+pages:
+- content/Jake.md
